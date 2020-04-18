@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: azure;
+}
+.my-image{
+    text-align: center;
+    width: 0.5px;
+    height: o.5px;
+}
+
+.me{
+    font-family: cursive;
+    color: aliceblue;
+    text-align: center;
+}
+
+form{
+    background-color: white;
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+form .submit button{
+    width: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 300;
+    color: black;
+}
